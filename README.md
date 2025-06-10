@@ -1,1 +1,2 @@
-# holbertonschool-shell
+#!/bin/bash
+holbertonschool-shell
