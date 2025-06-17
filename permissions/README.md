@@ -21,7 +21,11 @@ Creates an empty file called `hello` using `touch`.
 ### `5-execute`
 Adds execute permission to the owner of the file `hello` using `chmod u+x`.
 
+### `6-multiple_permission`
+Adds execute permission to the owner and the group owner and read permission to other users, to the file 'hello' using chmod command.
 
+### `7-everybody`
+adds execution permission to the owner, the group owner and the other users to the file 'hello' using command chmod.
 ## Requirements
 
 - All scripts are written in Bash
