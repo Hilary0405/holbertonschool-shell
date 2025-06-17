@@ -26,6 +26,15 @@ Adds execute permission to the owner and the group owner and read permission to 
 
 ### `7-everybody`
 adds execution permission to the owner, the group owner and the other users to the file 'hello' using command chmod.
+
+### `8-James_Bond`
+set the permissions to the file hello as user and group no permissions and other all the permissions using command chmod 007
+
+### `9-John_Doe`
+Write a script that sets the mode of the file hello to this: -rwxr-x-wx using command chmod 753 
+
+
+
 ## Requirements
 
 - All scripts are written in Bash
