@@ -33,8 +33,27 @@ set the permissions to the file hello as user and group no permissions and other
 ### `9-John_Doe`
 Write a script that sets the mode of the file hello to this: -rwxr-x-wx using command chmod 753 
 
-### '10-Look in the mirror
+### '10-Look in the mirror'
 This sets the mode of the file hello the same as olleh's mode.
+
+### '11-Directories'
+This adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. without changin the files.
+
+### '12-More dircetories'
+THis programm create a script that creates a directory called my_dir with permissions 751 in the working directory.
+
+### '13-Change group'
+
+
+### '14-Owner and group'
+
+
+### '15-Symbolic link'
+
+
+### '16-If only'
+
+
 
 ## Requirements
 
