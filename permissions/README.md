@@ -49,10 +49,10 @@ This script change the group owner to school for file hello. started by creating
 This script change the owner and group owner of all the files from 'root root' to 'vincent staff'
 
 ### '15-Symbolic link'
-
+This script change the user and grp user of a symbolic link 
 
 ### '16-If only'
-
+This script change the owner of a file only if the file user name iis guillaume.
 
 
 ## Requirements
