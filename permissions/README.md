@@ -33,7 +33,8 @@ set the permissions to the file hello as user and group no permissions and other
 ### `9-John_Doe`
 Write a script that sets the mode of the file hello to this: -rwxr-x-wx using command chmod 753 
 
-
+### '10-Look in the mirror
+This sets the mode of the file hello the same as olleh's mode.
 
 ## Requirements
 
