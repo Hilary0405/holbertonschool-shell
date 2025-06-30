@@ -40,13 +40,13 @@ This sets the mode of the file hello the same as olleh's mode.
 This adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. without changin the files.
 
 ### '12-More dircetories'
-THis programm create a script that creates a directory called my_dir with permissions 751 in the working directory.
+This programm create a script that creates a directory called my_dir with permissions 751 in the working directory.
 
 ### '13-Change group'
-
+This script change the group owner to school for file hello. started by creating a group named school using sudo goupadd command.'
 
 ### '14-Owner and group'
-
+This script change the owner and group owner of all the files from 'root root' to 'vincent staff'
 
 ### '15-Symbolic link'
 
